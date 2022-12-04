@@ -1,0 +1,16 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+config
+
+# Module directory
+.terraform/
+.terraform/*
+
+*.tfstate.backup
+*.tfstate.lock.info
+
+# Directories
+.vagrant/
+terraform.tfstate
+.terraform.lock.hcl
