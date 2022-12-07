@@ -14,3 +14,5 @@ config
 .vagrant/
 terraform.tfstate
 .terraform.lock.hcl
+
+tfplan
